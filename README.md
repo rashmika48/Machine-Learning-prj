@@ -1,4 +1,4 @@
-# Intelligent Pattern Recognition Using Equilibrium Optimizer with Deep Learning Model for Android Malware Detection
+# Intelligent Pattern Recognition Using Equilibrium Optimizer with Machine Learning Model for Android Malware Detection
 
 ## 🧠 Project Overview
 
